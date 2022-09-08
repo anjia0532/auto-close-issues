@@ -1,7 +1,10 @@
 ---
-name: ❔Create a question
+name: "❔Create a question"
 about: Create a question regarding upgrading React Native to a new version.
-labels: ❔Question
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## Environment

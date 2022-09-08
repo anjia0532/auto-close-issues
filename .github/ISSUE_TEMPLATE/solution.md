@@ -1,7 +1,10 @@
 ---
-name: 💪 Share a solution
+name: "\U0001F4AA Share a solution"
 about: Share a solution to a problem regarding upgrading React Native to a new version.
-labels: 💪 Solution
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## Environment
